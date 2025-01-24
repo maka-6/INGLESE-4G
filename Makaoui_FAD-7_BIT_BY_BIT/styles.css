@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+h1 {
+    color: #FF007F;
+    text-align: center;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.image {
+    text-align: center;
+}
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+.highlight {
+    color: #FF007F;
+    font-weight: bold;
+}
+.footer {
+    text-align: center;
+    color: #FF007F;
+    font-style: italic;
+    margin-top: 20px;
+}
